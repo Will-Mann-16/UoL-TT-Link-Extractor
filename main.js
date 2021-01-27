@@ -3,7 +3,6 @@ const cors = require("cors");
 const morgan = require("morgan");
 const path = require("path");
 const cheerio = require("cheerio");
-const multer = require("multer");
 const _ = require("lodash");
 
 const app = express();
