@@ -1,0 +1,14 @@
+{
+  "name": "TimetableZoomExtractor",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Will Mann",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "morgan": "^1.10.0"
+  }
+}
